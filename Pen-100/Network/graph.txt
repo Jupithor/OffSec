@@ -1,0 +1,6 @@
+root             AGGAGC
+node1            AACGUC
+node2            AAGGGA
+node3            AUAGGA
+node4            AACACC
+node5            AAGGGC
