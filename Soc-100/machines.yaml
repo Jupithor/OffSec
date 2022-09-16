@@ -1,0 +1,49 @@
+---
+# Organization computer systems
+machines_by_dept:
+  payroll_machines:
+    system_alpha:
+      hostname: "alpha"
+      os_name: "Windows"
+      os_version: 7
+      ip_address: "10.1.2.2"
+      is_server: no
+    system_bravo:
+      hostname: "bravo"
+      os_name: "Windows"
+      os_version: 8
+      ip_address: "10.1.2.3"
+      is_server: no
+  hr_machines:
+    system_victor:
+      hostname: "victor"
+      os_name: "Windows"
+      os_version: 10
+      ip_address: "10.1.2.11"
+      is_server: no
+    system_delta:
+      hostname: "delta"
+      os_name: "Windows Server"
+      os_version: 2019
+      ip_address: "10.1.2.5"
+      is_server: yes
+    system_echo:
+      hostname: "echo"
+      os_name: "Windows Server"
+      os_version: 2016
+      ip_address: "10.1.2.6"
+      is_server: yes
+  engineering_machines:
+    system_kilo:
+      hostname: "kilo"
+      os_name: "Debian"
+      os_version: 11
+      ip_address: "10.1.2.8"
+      is_server: no
+    system_oscar:
+      hostname: "oscar"
+      os_name: "Windows Server"
+      os_version: 2012
+      ip_address: "10.1.2.9"
+      is_server: yes
+...

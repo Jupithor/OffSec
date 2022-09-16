@@ -1,0 +1,41 @@
+{
+  "level101":[
+    {
+        "lvl101_name": "Network_Basics",
+        "lvl101_type": "Online",
+        "lvl101_duration": 720
+    },
+    {
+        "lvl101_name": "Intro_To_Software",
+        "lvl101_type": "On-Site",
+        "lvl101_duration": 200
+    },
+    {
+        "lvl101_name": "Hardware_Basics",
+        "lvl101_type": "On-Site",
+        "lvl101_duration": 980
+    },
+    {
+        "lvl101_name": "Web_Application_basics",
+        "lvl101_type": "On-Site",
+        "lvl101_duration": 12234
+    },
+    {
+        "lvl101_name": "Intro_to_C++",
+        "lvl101_type": "Online",
+        "lvl101_duration": 980
+    },
+    {
+        "lvl101_name": "Python_Scripting",
+        "lvl101_type": "On-Site",
+        "lvl101_duration": 456
+    }
+  ],
+  "level200":[
+    {
+        "lvl200_name": "AD_Configuration",
+        "lvl200_type": "On-Site",
+        "lvl200_duration": 1200
+    }
+    ]
+}
