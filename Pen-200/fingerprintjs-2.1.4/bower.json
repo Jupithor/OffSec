@@ -1,0 +1,27 @@
+{
+  "name": "fingerprintjs2",
+  "description": "Modern & flexible browser fingerprinting library",
+  "main": "fingerprint2.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "fraud",
+    "fraud-prevention",
+    "browser",
+    "fingerprint",
+    "fingerprinting",
+    "security",
+    "privacy"
+  ],
+  "authors": [
+    "Valentin Vasilev"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec"
+  ]
+}
