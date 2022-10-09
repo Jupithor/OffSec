@@ -1,0 +1,6 @@
+use upx to compress windows binaries
+
+use exe2hex:
+exe2hex -x $program.exe -p program.cmd
+
+
