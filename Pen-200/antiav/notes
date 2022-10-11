@@ -1,0 +1,3 @@
+use shellter to inject code into a binary
+
+use veil as meterpreter
