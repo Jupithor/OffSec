@@ -1,0 +1,3 @@
+command,flags,notes
+cewl,host -m <char-length> -w output, scrapes stie for words to wordlist
+openssl,passwd,makes a hashed password for the passwd/shadow file
