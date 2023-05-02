@@ -2,3 +2,5 @@ wordlist,permutation,john --wordlist=fileOfWords --rules > permutated
 wordlist,permutation,rules located at /etc/.john/john.conf
 wordlist,generate,cewl www.megacorpone.com -m 6 -w megacorp-cewl.txt
 wordlist,generate,crunch 11 11 -t buddy%%%%^^ -o wordlist2 
+bruteforce,http, medusa -h <ip> -u <user> -P <wordlist> -M http -m dir
+bruteforce,http-post, hydra <ip> http-form-post "/<page>:user=<user>&pass^PASS^:<wrong attempt> -l <user> -P wordlist -vV -f
