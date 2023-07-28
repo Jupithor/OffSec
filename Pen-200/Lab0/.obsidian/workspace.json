@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "a62b021fd74b8fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a7df12517efdc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6677736244a77b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websrv1/public enum/nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52bc0bcb0288c092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websrv1/public enum/Browse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "956e6b0900ba1086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websrv1/attack/duplicator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0d7e35b036d89c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mailsrv1/Attack/smb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1920b6880557017a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mailsrv1/enum/public enum/crackmapexec(SMB).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c287c65da8b3d085",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5c2d79bf10dafe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8eb7e0c05162458",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adb03be17e93deea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#websrv1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db08a145d226aaf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "260df058db180d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "1effba8eee70e82f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd01629a24280be0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mailsrv1/enum/public enum/crackmapexec(SMB).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a4308c115bfe610",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mailsrv1/enum/public enum/crackmapexec(SMB).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "389f6ac660641a92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e21a0717e1e4ba1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mailsrv1/enum/public enum/crackmapexec(SMB).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1920b6880557017a",
+  "lastOpenFiles": [
+    "Mailsrv1/Attack/smb.md",
+    "Mailsrv1/enum/public enum/crackmapexec(SMB).md",
+    "Mailsrv1/enum",
+    "Websrv1/attack/privesc.md",
+    "Mailsrv1/Attack",
+    "Credentials.md",
+    "Websrv1/public enum/nmap.md",
+    "Websrv1/public enum/Browse.md",
+    "pics/gtfobin.png",
+    "Websrv1/attack/duplicator.md",
+    "Websrv1/attack",
+    "Websrv1/public enum/WPscan.md",
+    "pics/WebBrowser.png",
+    "pics/topologi.png",
+    "Mailsrv1/enum/public enum/nmap.md",
+    "Mailsrv1/enum/public enum/gobuster.md",
+    "Untitled.canvas",
+    "Beyond Finances - Client information.md",
+    "Websrv1/public enum",
+    "Mailsrv1/enum/public enum",
+    "Websrv1",
+    "Mailsrv1",
+    "pics"
+  ]
+}
