@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "e9cfc99ad22f460c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa87f4263c1aaa97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804e850d17937d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "192.168.241.121/webserver.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af4f89f7160120af",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac1144f972237d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34cb32ebaeadedb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3345dda3827e0a5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2c1db07a8844022",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e770a9b82b571de",
+    "type": "split",
+    "children": [
+      {
+        "id": "57a031603a498213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fce3f9b137df14d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "192.168.241.121/webserver.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03b53fd35c15427c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "192.168.241.121/webserver.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80667fc45c0ca848",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b89efdf9435c81e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "192.168.241.121/webserver.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "804e850d17937d93",
+  "lastOpenFiles": [
+    "192.168.241.121/gobuster.md",
+    "192.168.241.121/192.168.241.121.md",
+    "192.168.241.120/hydra.restore",
+    "192.168.241.120/gobuster.md",
+    "192.168.241.121/webserver.md",
+    "192.168.241.120/webserver.md",
+    "192.168.241.120/192.168.241.120.md",
+    "192.168.241.120/test.txt",
+    "192.168.241.120/33489.txt",
+    "192.168.241.122.md",
+    "192.168.241.121/gobuster",
+    "192.168.241.121",
+    "192.168.241.120/gobuster",
+    "192.168.241.120",
+    "192.168.241.122",
+    "Untitled"
+  ]
+}

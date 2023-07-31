@@ -66,9 +66,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a479078e20063f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mailsrv1/Attack/phishing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e2bfee08968524c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLIENTWK1/Info.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c007d4ed6344b44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mailsrv1/Attack/phishing.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mailsrv1/enum/public enum/crackmapexec(SMB).md",
+                "file": "Mailsrv1/Attack/phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mailsrv1/enum/public enum/crackmapexec(SMB).md",
+                "file": "Mailsrv1/Attack/phishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mailsrv1/enum/public enum/crackmapexec(SMB).md"
+                "file": "Mailsrv1/Attack/phishing.md"
               }
             }
           }
@@ -195,10 +231,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1920b6880557017a",
+  "active": "c007d4ed6344b44c",
   "lastOpenFiles": [
     "Mailsrv1/Attack/smb.md",
+    "Mailsrv1/enum/public enum/gobuster.md",
+    "Mailsrv1/enum/public enum/nmap.md",
     "Mailsrv1/enum/public enum/crackmapexec(SMB).md",
+    "DCSRV1/Info.md",
+    "CLIENTWK1/Info.md",
+    "DCSRV1",
+    "Mailsrv1/enum/Network.md",
+    "CLIENTWK1",
+    "Mailsrv1/Attack/phishing.md",
+    "powercat.ps1",
+    "Mailsrv1/Attack/phishbody.txt",
+    "webdav/install.lnk",
+    "webdav",
+    "Mailsrv1/Attack/config.Library-ms",
+    "Mailsrv1/Attack/config.Library-ms.md",
     "Mailsrv1/enum",
     "Websrv1/attack/privesc.md",
     "Mailsrv1/Attack",
@@ -211,14 +261,7 @@
     "Websrv1/public enum/WPscan.md",
     "pics/WebBrowser.png",
     "pics/topologi.png",
-    "Mailsrv1/enum/public enum/nmap.md",
-    "Mailsrv1/enum/public enum/gobuster.md",
     "Untitled.canvas",
-    "Beyond Finances - Client information.md",
-    "Websrv1/public enum",
-    "Mailsrv1/enum/public enum",
-    "Websrv1",
-    "Mailsrv1",
-    "pics"
+    "Beyond Finances - Client information.md"
   ]
 }
