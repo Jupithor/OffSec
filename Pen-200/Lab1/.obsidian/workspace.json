@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "192.168.241.121/192.168.241.121.md",
+                "file": "172.16.x.82/nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "451cfd4e49125851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "credentials.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "192.168.241.121/192.168.241.121.md",
+                "file": "credentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "192.168.241.121/192.168.241.121.md",
+                "file": "credentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "192.168.241.121/192.168.241.121.md"
+                "file": "credentials.md"
               }
             }
           }
@@ -159,26 +171,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b54b6cb1b413be54",
+  "active": "451cfd4e49125851",
   "lastOpenFiles": [
+    "11.hashes",
+    "172.16.x.10/172.16.x.10.md",
+    "users",
+    "192.168.241.122.md",
+    "credentials.md",
+    "administratorHash",
+    "172.16.x.82/nmap.md",
+    "172.16.x.10/proof.txt",
+    "proof.txt",
+    "172.16.x.10/local.txt",
+    "local.txt",
+    "172.16.x.14/nmap.md",
+    "192.168.241.121/192.168.241.121.md",
+    "172.16.x.13/nmap.md",
+    "172.16.x.12/nmap.md",
+    "172.16.x.11/nmap.md",
+    "172.16.x.10.md",
+    "172.16.x.83",
+    "172.16.x.82",
+    "172.16.x.14",
+    "172.16.x.13",
     "192.168.241.121/webserver.md",
     "192.168.241.120/webserver.md",
     "192.168.241.120/192.168.241.120.md",
     "192.168.241.120/172.16.195.254.md",
     "192.168.241.120/gobuster.md",
-    "192.168.241.121/192.168.241.121.md",
     "192.168.241.121/sqli.md",
-    "192.168.241.121/creds",
-    "192.168.241.121/met.exe",
-    "192.168.241.121/gobuster.md",
-    "192.168.241.120/hydra.restore",
-    "192.168.241.120/test.txt",
-    "192.168.241.120/33489.txt",
-    "192.168.241.122.md",
-    "192.168.241.121/gobuster",
-    "192.168.241.121",
-    "192.168.241.120/gobuster",
-    "192.168.241.120",
-    "192.168.241.122"
+    "192.168.241.121/gobuster.md"
   ]
 }
