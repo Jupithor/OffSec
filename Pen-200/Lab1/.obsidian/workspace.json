@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aa87f4263c1aaa97",
+        "id": "936c2b987bf424e5",
         "type": "tabs",
         "children": [
           {
-            "id": "804e850d17937d93",
+            "id": "3f4378e927cf1c27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "192.168.241.120/192.168.241.120.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b54b6cb1b413be54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "credentials.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eae14acdf5e9aeba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "172.16.x.82(CLIENT01)/SMB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3b35f0dcb047966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5004348754883
+    "width": 283.5004348754883
   },
   "right": {
     "id": "6e770a9b82b571de",
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,41 +138,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3b35f0dcb047966",
+  "active": "3f4378e927cf1c27",
   "lastOpenFiles": [
+    "Notes.md",
+    "credentials.md",
+    "192.168.241.120(WEB01)/192.168.241.120.md",
+    "172.16.x.13(PROD01)/nmap.md",
+    "172.16.x.12(DEV04)/nmap.md",
+    "172.16.x.14(NTP)/nmap.md",
+    "172.16.x.10(DC01)/172.16.x.10.md",
+    "172.16.x.11(FILES02)/nmap.md",
+    "172.16.x.11(FILES02)/SMB.md",
+    "172.16.x.10(DC01)/SMB.md",
+    "172.16.x.12(DEV04)/SMB.md",
+    "192.168.241.122(vpn)/unshadowed.txt",
+    "192.168.241.122(vpn)/shadow1",
+    "shadow1~",
+    "4913",
+    "shadow1",
+    "192.168.241.122(vpn)/shadow",
+    "shadow",
+    "192.168.241.122(vpn)/passwd",
+    "passwd",
+    "mario.hash",
+    "192.168.241.122(vpn)/Untitled.md",
+    "192.168.241.122(vpn)/192.168.241.122(vpn).md",
+    "172.16.x.83(CLIENT02)/SMB.md",
     "172.16.x.82(CLIENT01)/SMB.md",
     "172.16.x.82(CLIENT01)/nmap.md",
-    "172.16.x.83(CLIENT02)/SMB.md",
-    "Notes.md",
-    "192.168.241.122.md",
     "192.168.241.121(WEB02)/webserver.md",
     "192.168.241.121(WEB02)/sqli.md",
-    "192.168.241.120/webserver.md",
-    "192.168.241.120/gobuster.md",
+    "192.168.241.120(WEB01)/webserver.md",
+    "192.168.241.120(WEB01)/gobuster.md",
     "192.168.241.121(WEB02)/172.16.195.254.md",
-    "192.168.241.120/192.168.241.120.md",
     "192.168.241.121(WEB02)/192.168.241.121.md",
-    "172.16.x.11(FILES02)/SMB.md",
-    "172.16.x.11(FILES02)/nmap.md",
-    "172.16.x.10(DC01)/SMB.md",
-    "172.16.x.10(DC01)/172.16.x.10.md",
-    "172.16.x.14/nmap.md",
     "172.16.x.14/SMB.md",
     "172.16.x.13(PROD01)/SMB.md",
-    "172.16.x.13(PROD01)/nmap.md",
-    "172.16.x.12(DEV04)/SMB.md",
-    "172.16.x.12(DEV04)/nmap.md",
-    "credentials.md",
-    "passwords",
-    "hashes.11",
-    "172.16.x.11(FILES02)/filemonUTF8.txt",
-    "172.16.x.11(FILES02)/fileMonitorBackup.log",
-    "4913",
-    "users",
-    "administratorHash",
-    "172.16.x.82(CLIENT01)",
-    "172.16.x.14",
-    "172.16.x.13(PROD01)",
     "192.168.241.121(WEB02)/gobuster.md"
   ]
 }
