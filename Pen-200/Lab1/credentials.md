@@ -11,8 +11,14 @@
 172.16.x.83;local,offsec,2892d26cdf84d7a70e2eb3b9f05c425e
 172.16.x.83;local,administrator,f26c0186c8ffcceb01fd2d7549e7ac1f
 172.16.x.11;user,daisy,abf36048c1cf88f5603381c5128feb8e
+<<<<<<< HEAD
+172.16.x.11;user,toad,5be63a865b65349851c1f11a067a3068 
+172.16.x.11;user,wario,Mushroom!
+172.16.x.11;user,goomba,8e9e1516818ce4e54247e71e71b5f436
+=======
 172.16.x.11;user,toad,5be63a865b65349851c1f11a067a3068
 172.16.x.11;user,goomba,8e9e1516818ce4e54247e71e71b5f436 
+>>>>>>> 783db1d685f9f9e3cac4afec2c081ea85213df17
 172.16.x.11;user,administrator,f1014ac49bae005ee3ece5f47547d185
 172.16.x.11;domain,administrator,$DCC2$10240#Administrator#a7c5480e8c1ef0ffec54e99275e6e0f7 
 192.168.x.122;local,root,root:$y$j9T$2pGfmLZ2kv0OMN7xs1QG21$6NibMN8YIZ794SpXXu9g3DMMJIZr95EFRVcs7xUs568:19268:0:99999:7:::
