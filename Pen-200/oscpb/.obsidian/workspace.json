@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "f13054719c43b5ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "68eb2019a1ddb3c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4a95b19d85e176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "192.168.x.147_ms01/creds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "474adbcf42b3f129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "192.168.x.151_gust/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70ffe2a736164826",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a4e60c5334cd2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b403f097067acb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fd3b80130d2d0e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76121abef2161789",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cd61506f631d988",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86cf2ac7ee3b3ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8d0eae408a89272",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "192.168.x.151_gust/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d096f0995c1a3b29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "192.168.x.151_gust/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9e675724a250c52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc48e1ff9ad08a77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "192.168.x.151_gust/Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "474adbcf42b3f129",
+  "lastOpenFiles": [
+    "192.168.x.151_gust/nmap.md",
+    "192.168.x.151_gust/Notes.md",
+    "192.168.x.150_berlin/notes.md",
+    "192.168.x.151_gust/47799.py",
+    "192.168.x.151_gust/4913",
+    "192.168.x.151_gust/sys",
+    "192.168.x.151_gust/47799.txt",
+    "192.168.x.150_berlin/gobuster.md",
+    "192.168.x.150_berlin/46501.py",
+    "192.168.x.150_berlin/nmapsV.md",
+    "192.168.x.150_berlin/nmap.md",
+    "192.168.x.149_kiero/notes.md",
+    "192.168.x.149_kiero/nmapUDP.md",
+    "192.168.x.149_kiero/nmapsV.md",
+    "192.168.x.149_kiero/nmapSNMP.md",
+    "192.168.x.149_kiero/nmap.md",
+    "192.168.x.149_kiero/gobuster.md",
+    "192.168.x.150_berlin/test.txt",
+    "192.168.x.150_berlin/search",
+    "192.168.x.150_berlin/CHANGELOG",
+    "192.168.x.149_kiero/local.txt",
+    "192.168.x.149_kiero/RESET_PASSWD",
+    "10.10.x.148_ms02/creds.md",
+    "192.168.x.147_ms01/creds.md",
+    "10.10.x.146_dc01/nmap.md",
+    "10.10.x.148_ms02/nmap.md",
+    "192.168.x.147_ms01/hashes.users.md",
+    "192.168.x.147_ms01/nmapVC.md",
+    "192.168.x.147_ms01/notes.md",
+    "192.168.x.147_ms01/nmap.md",
+    "192.168.x.147_ms01/gobuster8443.md",
+    "192.168.x.147_ms01/gobuster8080.md",
+    "192.168.x.147_ms01/gobuster8000.md",
+    "192.168.x.147_ms01/nmapUDP.md"
+  ]
+}

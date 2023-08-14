@@ -1,0 +1,8 @@
+# Changelog
+
+Version 0.2
+- Added Apache Commons Text 1.8 Dependency for String Interpolation
+
+Version 0.1
+- Initial beta version based on Spring Boot Framework
+- Added basic search functionality

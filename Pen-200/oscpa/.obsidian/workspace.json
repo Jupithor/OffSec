@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "24d265becb4c3c4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c75b6b117f8bffb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f61047823e42f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "192.168.x.141(ms01)/users.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "726cf2b0738d6d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "192.168.x.141(ms01)/notes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc730e92fa111b05",
+    "type": "split",
+    "children": [
+      {
+        "id": "285a48d76a442643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b82299324cfc10d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d594b22a03038dea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a34c7fb324fec186",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e802915051923761",
+    "type": "split",
+    "children": [
+      {
+        "id": "300f837714e2c650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d142ed1998fac75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "192.168.x.141(ms01)/notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e58571a6b6b3107",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "192.168.x.141(ms01)/notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "523b11d68654e338",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c02c48ae9d920efa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "192.168.x.141(ms01)/notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "726cf2b0738d6d7e",
+  "lastOpenFiles": [
+    "192.168.x.143(aero OS)/notes.md",
+    "192.168.x.141(ms01)/notes.md",
+    "192.168.x.141(ms01)/passwords.md",
+    "192.168.x.141(ms01)/users.md",
+    "192.168.x.141(ms01)/apsystem.sql.md",
+    "192.168.x.141(ms01)/nmap.md",
+    "192.168.x.145(Hermes OS)/notes.md",
+    "192.168.x.145(Hermes OS)/users.md",
+    "nmapUDP.md",
+    "192.168.x.145(Hermes OS)/metR81.exe",
+    "192.168.x.145(Hermes OS)/4913",
+    "192.168.x.145(Hermes OS)/string",
+    "192.168.x.145(Hermes OS)/sys",
+    "192.168.x.145(Hermes OS)/50972.py",
+    "192.168.x.145(Hermes OS)/nmapUDP1900.md",
+    "192.168.x.145(Hermes OS)/hydra.restore",
+    "192.168.x.145(Hermes OS)/nmapUDP.md",
+    "192.168.x.145(Hermes OS)/nmap.md",
+    "192.168.x.145(Hermes OS)/gobuster.md",
+    "192.168.x.144(Crystal OS)/notes.md",
+    "192.168.x.144(Crystal OS)/nmap.md",
+    "192.168.x.144(Crystal OS)/backup/web.config.txt",
+    "192.168.x.144(Crystal OS)/backup/tmp",
+    "192.168.x.144(Crystal OS)/backup/templates",
+    "192.168.x.144(Crystal OS)/backup/robots.txt",
+    "192.168.x.144(Crystal OS)/git/README.md",
+    "192.168.x.144(Crystal OS)/creds.md",
+    "192.168.x.144(Crystal OS)/README.md",
+    "192.168.x.143(aero OS)/nmap.md",
+    "192.168.x.144(Crystal OS)/gobuster.md",
+    "192.168.x.143(aero OS)/gobusterAPI.md",
+    "192.168.x.143(aero OS)/gobuster.md",
+    "192.168.x.143(aero OS)/gobuster443.md",
+    "192.168.x.143(aero OS)/gobuster81.md",
+    "192.168.x.141(ms01)/gobuster81.md",
+    "10.10.x.142(ms02)/nmap.md"
+  ]
+}

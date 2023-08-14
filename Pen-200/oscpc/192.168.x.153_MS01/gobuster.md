@@ -1,0 +1,17 @@
+http://192.168.228.153:8000/partner             [36m (Status: 301)[0m [Size: 159][34m [--> http://192.168.228.153:8000/partner/][0m
+http://192.168.228.153:8000/*checkout*          [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/Partner             [36m (Status: 301)[0m [Size: 159][34m [--> http://192.168.228.153:8000/Partner/][0m
+http://192.168.228.153:8000/*docroot*           [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/*                   [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/http%3A%2F%2Fwww    [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/http%3A             [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/q%26a               [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/**http%3a           [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/*http%3A            [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/**http%3A           [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/http%3A%2F%2Fyoutube[33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/http%3A%2F%2Fblogs  [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/http%3A%2F%2Fblog   [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/**http%3A%2F%2Fwww  [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/s%26p               [33m (Status: 400)[0m [Size: 3490]
+http://192.168.228.153:8000/%3FRID%3D2671       [33m (Status: 400)[0m [Size: 3490]
