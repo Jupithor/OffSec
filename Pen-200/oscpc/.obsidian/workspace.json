@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "192.168.x.153_MS01/nmap.md",
+                "file": "192.168.x.156_frankfurt/nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "192.168.x.153_MS01/nmap.md",
+                "file": "192.168.x.156_frankfurt/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "192.168.x.153_MS01/nmap.md",
+                "file": "192.168.x.156_frankfurt/nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "192.168.x.153_MS01/nmap.md"
+                "file": "192.168.x.156_frankfurt/nmap.md"
               }
             }
           }
@@ -148,8 +148,22 @@
   },
   "active": "1b254f8a9933f5b1",
   "lastOpenFiles": [
-    "192.168.x.153_MS01/gobuster.md",
+    "192.168.x.156_frankfurt/creds",
+    "192.168.x.153_MS01/snmp",
+    "192.168.x.156_frankfurt/nmapU.md",
     "192.168.x.156_frankfurt/nmap.md",
-    "192.168.x.153_MS01/nmap.md"
+    "192.168.x.156_frankfurt/ferox.txt",
+    "10.10.x.154_MS02/windows.old/ferox.txt",
+    "10.10.x.152_DC01/nmap.md",
+    "10.10.x.154_MS02/windows.old/users",
+    "10.10.x.154_MS02/windows.old/hashes",
+    "10.10.x.154_MS02/nmap.md",
+    "10.10.x.154_MS02/windows.old/creds",
+    "10.10.x.154_MS02/windows.old/samdump",
+    "10.10.x.154_MS02/windows.old/SYSTEM",
+    "10.10.x.154_MS02/windows.old/SAM",
+    "10.10.x.154_MS02/windows.old",
+    "192.168.x.153_MS01/nmap.md",
+    "192.168.x.153_MS01/gobuster.md"
   ]
 }

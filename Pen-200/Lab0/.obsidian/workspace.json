@@ -102,9 +102,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "08aaf8270c56fe93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -231,7 +241,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c007d4ed6344b44c",
+  "active": "08aaf8270c56fe93",
   "lastOpenFiles": [
     "Mailsrv1/Attack/smb.md",
     "Mailsrv1/enum/public enum/gobuster.md",
