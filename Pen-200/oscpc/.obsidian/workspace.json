@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "192.168.x.156_frankfurt/nmap.md",
+                "file": "192.168.x.157_charlie/nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b93b20bbc711c57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "192.168.x.155_pascha/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "192.168.x.156_frankfurt/nmap.md",
+                "file": "192.168.x.155_pascha/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "192.168.x.156_frankfurt/nmap.md",
+                "file": "192.168.x.155_pascha/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "192.168.x.156_frankfurt/nmap.md"
+                "file": "192.168.x.155_pascha/Notes.md"
               }
             }
           }
@@ -146,23 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b254f8a9933f5b1",
+  "active": "b93b20bbc711c57c",
   "lastOpenFiles": [
-    "192.168.x.156_frankfurt/creds",
-    "192.168.x.153_MS01/snmp",
-    "192.168.x.156_frankfurt/nmapU.md",
+    "192.168.x.155_pascha/nmap.md",
+    "192.168.x.155_pascha/Notes.md",
+    "192.168.x.155_pascha/mmexe.py",
+    "192.168.x.155_pascha/4913",
+    "192.168.x.155_pascha/51010.py~",
+    "192.168.x.155_pascha/argparse",
+    "192.168.x.155_pascha/socket",
+    "192.168.x.155_pascha/ferox-http_192_168_229_155:9099-1692207476.state",
+    "192.168.x.155_pascha/51010.py",
+    "192.168.x.155_pascha/ferox.md",
+    "192.168.x.157_charlie/notes.md",
+    "192.168.x.155_pascha/ferox-http_192_168_229_155-1692207105.state",
+    "192.168.x.155_pascha/ferox90.md",
+    "192.168.x.155_pascha/ferox-http_192_168_229_155:9099-1692207088.state",
+    "192.168.x.158_pascha/nmap.md",
+    "192.168.x.155_pascha/snmpbulk",
+    "192.168.x.155_pascha/nmapU.md",
+    "192.168.x.158_pascha/ferox.md",
+    "192.168.x.158_pascha/nmapU.md",
+    "192.168.x.157_charlie/nmap.md",
+    "192.168.x.157_charlie/ferox.md",
     "192.168.x.156_frankfurt/nmap.md",
-    "192.168.x.156_frankfurt/ferox.txt",
-    "10.10.x.154_MS02/windows.old/ferox.txt",
+    "192.168.x.156_frankfurt/nmapU.md",
     "10.10.x.152_DC01/nmap.md",
-    "10.10.x.154_MS02/windows.old/users",
-    "10.10.x.154_MS02/windows.old/hashes",
     "10.10.x.154_MS02/nmap.md",
-    "10.10.x.154_MS02/windows.old/creds",
-    "10.10.x.154_MS02/windows.old/samdump",
-    "10.10.x.154_MS02/windows.old/SYSTEM",
-    "10.10.x.154_MS02/windows.old/SAM",
-    "10.10.x.154_MS02/windows.old",
     "192.168.x.153_MS01/nmap.md",
     "192.168.x.153_MS01/gobuster.md"
   ]
