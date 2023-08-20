@@ -1,0 +1,10 @@
+Hello! My name is Dwight, and I'm a new member of the IT Team. 
+
+This week I am completing some configurations we rolled out last week.
+To make this easier, I've attached a file that will automatically
+perform each step. Could you download the attachment, open the
+directory, and double-click "automatic_configuration"? Once you
+confirm the configuration in the window that appears, you're all done!
+
+If you have any questions, or run into any problems, please let me
+know!

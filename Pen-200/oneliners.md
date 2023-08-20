@@ -16,7 +16,7 @@ Get-ChildItem -Recurse | Select-String "dummy" -List | Select Path
 whoami /priv
 ```
 ```
-Get-ChildItem -Path C:\ -Include *.conf,*.config,*.kdbx,*.log -File -Recurse -ErrorAction SilentlyContinue
+Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue
 ```
 ```
 Get-ChildItem -Path C:\xampp -Include *.txt,*.ini -File -Recurse -ErrorAction SilentlyContinue

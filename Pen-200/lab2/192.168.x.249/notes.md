@@ -4,3 +4,5 @@ default creds admin:admin virker fint <3
 
 upload webshell
 impersonate privs for system... igen igen..
+
+find creds til maildmz i c:\staging\.git
