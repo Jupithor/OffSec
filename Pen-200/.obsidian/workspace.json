@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oneliners.md",
+                "file": "exam/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oneliners.md",
+                "file": "exam/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oneliners.md",
+                "file": "exam/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oneliners.md"
+                "file": "exam/Notes.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "592f0088c6437b24",
   "lastOpenFiles": [
+    "exam/screenshots/Pasted image 20230821073003.png",
+    "exam/Notes.md",
+    "oneliners.md",
     "tools/metR7777.dll",
     "lab2/Autologon64a.exe",
     "lab2/hash.mic",
@@ -166,14 +169,12 @@
     "lab2/172.16.x.21/nmap.md",
     "lab2/172.16.x.7/nmap.md",
     "lab2/172.16.x.6/nmap.md",
-    "lab2/4913",
     "lab2/192.168.x.191/notes.md",
     "lab2/172.16.x.14/notes.md",
     "lab2/172.16.x.14/Untitled.md",
     "lab2/192.168.x.189/notes.md",
     "lab2/192.168.x.189/Untitled.md",
     "lab2/Untitled.md",
-    "lab2/192.168.x.191/Untitled.md",
-    "oneliners.md"
+    "lab2/192.168.x.191/Untitled.md"
   ]
 }
